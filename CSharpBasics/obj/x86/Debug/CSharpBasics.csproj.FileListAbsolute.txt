@@ -1,0 +1,6 @@
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.csprojResolveAssemblyReference.cache
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.exe
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/bin/Debug/CSharpBasics.pdb
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.exe
+/Users/tech-a10/Projects/CSharpBasics/CSharpBasics/obj/x86/Debug/CSharpBasics.pdb
